@@ -106,7 +106,6 @@
     "@cocreate/unique@1.20.5": true,
     "@cocreate/users@1.39.4": true,
     "@cocreate/utils@1.42.2": true,
-    "@cocreate/uuid@1.12.4": true,
     "@cocreate/validation@1.16.4": true,
     "@cocreate/vdom@1.13.4": true,
     "core-js@3.37.0": true
