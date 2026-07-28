@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/website",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CoCreate's website contains description and features of CoCreate No Code platform. The plaform was built using COCreateJS a low code framework",
   "keywords": [
     "website-template",
