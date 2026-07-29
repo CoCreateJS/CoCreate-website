@@ -100,7 +100,7 @@
 				read="false"
 				upsert="true"
 				render-query="[template]"
-				skip-attribute>
+				form-attributes="false">
 				<div template file_id="{{object.id}}">
 					<input
 						file="pathname"
@@ -137,7 +137,7 @@
 				read="false"
 				upsert="true"
 				render-query="[template]"
-				skip-attribute>
+				form-attributes="false">
 				<div template file_id="{{object.id}}">
 					<input
 						file="pathname"
@@ -222,7 +222,7 @@
 			input-query="$document #publishform"
 			input-attribute="object"
 			hidden />
-		<input type="datetime" key="published" value="$now" hidden />
+		<input type="datetime" key="published" now hidden />
 
 		<div class="display:flex justify-content:space-between width:100%">
 			<button
