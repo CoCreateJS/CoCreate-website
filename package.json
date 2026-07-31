@@ -30,10 +30,10 @@
     "url": "https://github.com/sponsors/CoCreate-app"
   },
   "devDependencies": {
-    "@cocreate/webpack": "^1.6.2"
+    "@cocreate/webpack": "^1.7.0"
   },
   "dependencies": {
-    "@cocreate/cocreatejs": "^1.79.3"
+    "@cocreate/cocreatejs": "^1.80.0"
   },
   "allowScripts": {
     "@cocreate/webpack@1.4.3": true,
