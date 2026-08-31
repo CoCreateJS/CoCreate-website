@@ -29,7 +29,7 @@
 			let data = await CoCreate.crud.send({
 				method: "object.read",
 				array: "users",
-				$filter: {
+				filter: {
 					query
 				}
 			});
