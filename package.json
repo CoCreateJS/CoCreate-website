@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreate-app/CoCreate-website.git"
+    "url": "git+https://github.com/CoCreateJS/CoCreate-website.git"
   },
   "author": "CoCreate LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CoCreate-app/CoCreate-website/issues"
+    "url": "https://github.com/CoCreateJS/CoCreate-website/issues"
   },
-  "homepage": "https://cocreate.app/docs/website-template",
+  "homepage": "https://CoCreateJS.com/docs/website-template",
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/CoCreate-app"
