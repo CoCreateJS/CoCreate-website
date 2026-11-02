@@ -27,12 +27,12 @@
   "homepage": "https://CoCreateJS.com/docs/website-template",
   "funding": {
     "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/CoCreate-app"
+    "url": "https://github.com/sponsors/CoCreateJS"
   },
   "devDependencies": {
     "@cocreate/webpack": "^1.7.0"
   },
   "dependencies": {
-    "@cocreate/cocreatejs": "^1.80.2"
+    "@cocreate/client": "^2.0.0"
   }
 }

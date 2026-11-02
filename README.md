@@ -2,10 +2,10 @@
 
 A simple website component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API. Take it for a spin in our [playground!](https://CoCreateJS.com/docs/website)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-website/dist/CoCreate-website.min.js?label=minified%20size&style=for-the-badge)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-website?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-website?style=for-the-badge)
-![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-website/help%20wanted?style=for-the-badge)
+![GitHub file size in bytes](https://img.shields.io/github/size/CoCreateJS/CoCreate-website/dist/CoCreate-website.min.js?label=minified%20size&style=for-the-badge)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreateJS/CoCreate-website?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/CoCreateJS/CoCreate-website?style=for-the-badge)
+![GitHub labels](https://img.shields.io/github/labels/CoCreateJS/CoCreate-website/help%20wanted?style=for-the-badge)
 
 ![CoCreate-website](https://cdn.CoCreateJS.com/docs/CoCreate-website.gif)
 
